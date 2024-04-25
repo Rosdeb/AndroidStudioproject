@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977612562031",
+    "project_id": "rosdeb",
+    "storage_bucket": "rosdeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977612562031:android:ba521e1774cf3d2e5e379a",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4BaIgVD5eiMjQrz3QF2n90k_C04-dE_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
